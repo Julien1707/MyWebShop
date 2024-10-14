@@ -1,0 +1,4002 @@
+[
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 48.14,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 25,
+        "img": ""
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 31.91,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 66,
+        "img": ""
+    },
+    {
+        "productName": "Digital Camera",
+        "category": "Electronics",
+        "price": 21.31,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 183,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 160.85,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 166,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 226.66,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 94,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 423.48,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 217,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 167.02,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 287,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 319.76,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 12,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 203.62,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 181,
+        "img": ""
+    },
+    {
+        "productName": "Smartphone",
+        "category": "Electronics",
+        "price": 64.58,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 59,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 356.46,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 243,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 400.86,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 180,
+        "img": ""
+    },
+    {
+        "productName": "Wireless Charger",
+        "category": "Electronics",
+        "price": 212.41,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 93,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 69.36,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 168,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 163.45,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 292,
+        "img": ""
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 254.68,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 58,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 394.93,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 259,
+        "img": ""
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 475.18,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 47,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Electronics",
+        "price": 376.29,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 122,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 343.32,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 87,
+        "img": ""
+    },
+    {
+        "productName": "Digital Camera",
+        "category": "Electronics",
+        "price": 460.04,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 93,
+        "img": ""
+    },
+    {
+        "productName": "Smartphone",
+        "category": "Electronics",
+        "price": 61.47,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 274,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Electronics",
+        "price": 123.34,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 111,
+        "img": ""
+    },
+    {
+        "productName": "Smartphone",
+        "category": "Electronics",
+        "price": 195.99,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 208,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 79.95,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 247,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 143.33,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 245,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 47.11,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 55,
+        "img": ""
+    },
+    {
+        "productName": "Tablet",
+        "category": "Electronics",
+        "price": 381.76,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 46,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 19.86,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 209,
+        "img": ""
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 396.84,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 291,
+        "img": ""
+    },
+    {
+        "productName": "Tablet",
+        "category": "Electronics",
+        "price": 281.6,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 52,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 87.43,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 177,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 442.45,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 277,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Electronics",
+        "price": 275.01,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 185,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Electronics",
+        "price": 456.22,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 155,
+        "img": ""
+    },
+    {
+        "productName": "Tablet",
+        "category": "Electronics",
+        "price": 436.68,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 90,
+        "img": ""
+    },
+    {
+        "productName": "Digital Camera",
+        "category": "Electronics",
+        "price": 344.52,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 58,
+        "img": ""
+    },
+    {
+        "productName": "Smartphone",
+        "category": "Electronics",
+        "price": 199.41,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 181,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 99.85,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 266,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 102.06,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 111,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Electronics",
+        "price": 89.45,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 101,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 335.21,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 23,
+        "img": ""
+    },
+    {
+        "productName": "Digital Camera",
+        "category": "Electronics",
+        "price": 451.44,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 124,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 280.49,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 126,
+        "img": ""
+    },
+    {
+        "productName": "Digital Camera",
+        "category": "Electronics",
+        "price": 78.44,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 101,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Laptop",
+        "category": "Electronics",
+        "price": 232.66,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 212,
+        "img": ""
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 410.13,
+        "description": "65-inch 4K Ultra HD Smart TV with HDR and voice control.",
+        "quantityAvailable": 55,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Electronics",
+        "price": 217.64,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 83,
+        "img": ""
+    },
+    {
+        "productName": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 136.17,
+        "description": "Smartphone with 6.5-inch display, 128GB storage, and 5G connectivity.",
+        "quantityAvailable": 284,
+        "img": ""
+    },
+    {
+        "productName": "Wireless Charger",
+        "category": "Electronics",
+        "price": 448.43,
+        "description": "Portable waterproof Bluetooth speaker with 12 hours battery life.",
+        "quantityAvailable": 22,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 460.2,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 225,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 364.47,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 271,
+        "img": ""
+    },
+    {
+        "productName": "Laptop Backpack",
+        "category": "Accessories",
+        "price": 421.96,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 272,
+        "img": ""
+    },
+    {
+        "productName": "Necklace",
+        "category": "Accessories",
+        "price": 85.04,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 85,
+        "img": ""
+    },
+    {
+        "productName": "Wristwatch",
+        "category": "Accessories",
+        "price": 143.09,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 138,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 288.72,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 88,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 168.92,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 272,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 243.86,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 234,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 473.53,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 196,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 141.79,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 230,
+        "img": ""
+    },
+    {
+        "productName": "Sunglasses",
+        "category": "Accessories",
+        "price": 417.71,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 138,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 488.65,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 259,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 242.17,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 223,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 94.0,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 121,
+        "img": ""
+    },
+    {
+        "productName": "Wristwatch",
+        "category": "Accessories",
+        "price": 179.12,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 41,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 176.21,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 266.57,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 56,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 470.76,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 69,
+        "img": ""
+    },
+    {
+        "productName": "Necklace",
+        "category": "Accessories",
+        "price": 161.5,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 257,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 64.66,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 294,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 157.54,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 52,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 257.1,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 227,
+        "img": ""
+    },
+    {
+        "productName": "Wristwatch",
+        "category": "Accessories",
+        "price": 25.45,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 213,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 449.39,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 258,
+        "img": ""
+    },
+    {
+        "productName": "Gloves",
+        "category": "Accessories",
+        "price": 136.61,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 19,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 491.54,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 74,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 16.02,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 83,
+        "img": ""
+    },
+    {
+        "productName": "Earrings",
+        "category": "Accessories",
+        "price": 208.34,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 53,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 240.83,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 20,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 276.4,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 105,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 306.75,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 150,
+        "img": ""
+    },
+    {
+        "productName": "Necklace",
+        "category": "Accessories",
+        "price": 251.16,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 79,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 217.08,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 88,
+        "img": ""
+    },
+    {
+        "productName": "Earrings",
+        "category": "Accessories",
+        "price": 77.13,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 42,
+        "img": ""
+    },
+    {
+        "productName": "Gloves",
+        "category": "Accessories",
+        "price": 109.73,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 139,
+        "img": ""
+    },
+    {
+        "productName": "Sunglasses",
+        "category": "Accessories",
+        "price": 406.82,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 90,
+        "img": ""
+    },
+    {
+        "productName": "Gloves",
+        "category": "Accessories",
+        "price": 126.6,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 200,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 163.14,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 282,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 454.14,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 287,
+        "img": ""
+    },
+    {
+        "productName": "Belt",
+        "category": "Accessories",
+        "price": 162.54,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 263,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 337.75,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 145,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 403.04,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 117,
+        "img": ""
+    },
+    {
+        "productName": "Gloves",
+        "category": "Accessories",
+        "price": 337.63,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 66,
+        "img": ""
+    },
+    {
+        "productName": "Gloves",
+        "category": "Accessories",
+        "price": 152.91,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 86,
+        "img": ""
+    },
+    {
+        "productName": "Sunglasses",
+        "category": "Accessories",
+        "price": 267.3,
+        "description": "Genuine leather belt with adjustable buckle and sleek design.",
+        "quantityAvailable": 255,
+        "img": ""
+    },
+    {
+        "productName": "Baseball Cap",
+        "category": "Accessories",
+        "price": 475.72,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 176,
+        "img": ""
+    },
+    {
+        "productName": "Sunglasses",
+        "category": "Accessories",
+        "price": 219.33,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 57,
+        "img": ""
+    },
+    {
+        "productName": "Scarf",
+        "category": "Accessories",
+        "price": 336.82,
+        "description": "Polarized sunglasses with UV400 protection for men and women.",
+        "quantityAvailable": 127,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 255.21,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 154,
+        "img": ""
+    },
+    {
+        "productName": "Leather Wallet",
+        "category": "Accessories",
+        "price": 174.09,
+        "description": "Water-resistant backpack with padded laptop compartment and multiple pockets.",
+        "quantityAvailable": 186,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 281.67,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 164,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Home Appliances",
+        "price": 213.12,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 241,
+        "img": ""
+    },
+    {
+        "productName": "Vacuum Cleaner",
+        "category": "Home Appliances",
+        "price": 227.05,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 238,
+        "img": ""
+    },
+    {
+        "productName": "Dishwasher",
+        "category": "Home Appliances",
+        "price": 465.88,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 85,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 373.43,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 56,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Home Appliances",
+        "price": 65.42,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 121,
+        "img": ""
+    },
+    {
+        "productName": "Air Purifier",
+        "category": "Home Appliances",
+        "price": 39.15,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 237,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 148.35,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 216,
+        "img": ""
+    },
+    {
+        "productName": "Vacuum Cleaner",
+        "category": "Home Appliances",
+        "price": 15.44,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 258,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 102.55,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 67,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Home Appliances",
+        "price": 323.8,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 258,
+        "img": ""
+    },
+    {
+        "productName": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 166.42,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 300,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 382.28,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 55,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 231.37,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 188,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 43.71,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 228,
+        "img": ""
+    },
+    {
+        "productName": "Dishwasher",
+        "category": "Home Appliances",
+        "price": 252.42,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 12,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 463.57,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 88,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 367.35,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 214,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 226.32,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 243,
+        "img": ""
+    },
+    {
+        "productName": "Dishwasher",
+        "category": "Home Appliances",
+        "price": 121.3,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 179,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 484.17,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 119,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 375.49,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 272,
+        "img": ""
+    },
+    {
+        "productName": "Vacuum Cleaner",
+        "category": "Home Appliances",
+        "price": 74.88,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 36,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 319.07,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 244,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 437.51,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 79,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 259.44,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 234,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 251.55,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 240,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 408.1,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 47,
+        "img": ""
+    },
+    {
+        "productName": "Air Purifier",
+        "category": "Home Appliances",
+        "price": 395.93,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 117,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 202.52,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 177,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 67.73,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 27,
+        "img": ""
+    },
+    {
+        "productName": "Refrigerator",
+        "category": "Home Appliances",
+        "price": 337.58,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 31,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 57.93,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 220,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 166.47,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 252,
+        "img": ""
+    },
+    {
+        "productName": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 126.13,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 146,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 199.1,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 222,
+        "img": ""
+    },
+    {
+        "productName": "Dishwasher",
+        "category": "Home Appliances",
+        "price": 291.83,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 121,
+        "img": ""
+    },
+    {
+        "productName": "Air Purifier",
+        "category": "Home Appliances",
+        "price": 222.19,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 12,
+        "img": ""
+    },
+    {
+        "productName": "Air Conditioner",
+        "category": "Home Appliances",
+        "price": 410.71,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 130,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Maker",
+        "category": "Home Appliances",
+        "price": 53.63,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 258,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Home Appliances",
+        "price": 169.7,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 128,
+        "img": ""
+    },
+    {
+        "productName": "Vacuum Cleaner",
+        "category": "Home Appliances",
+        "price": 270.94,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 246,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 246.07,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 82,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 153.43,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 273,
+        "img": ""
+    },
+    {
+        "productName": "Dishwasher",
+        "category": "Home Appliances",
+        "price": 232.63,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 156,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 209.99,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 296,
+        "img": ""
+    },
+    {
+        "productName": "Washing Machine",
+        "category": "Home Appliances",
+        "price": 482.75,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 220,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 467.67,
+        "description": "Lightweight cordless vacuum with HEPA filtration and 40-minute runtime.",
+        "quantityAvailable": 114,
+        "img": ""
+    },
+    {
+        "productName": "Iron",
+        "category": "Home Appliances",
+        "price": 261.45,
+        "description": "Energy-saving smart thermostat with Wi-Fi control and app integration.",
+        "quantityAvailable": 260,
+        "img": ""
+    },
+    {
+        "productName": "Microwave Oven",
+        "category": "Home Appliances",
+        "price": 379.73,
+        "description": "High-speed blender with 6 blades and a 64-ounce container.",
+        "quantityAvailable": 217,
+        "img": ""
+    },
+    {
+        "productName": "Yoga Mat",
+        "category": "Fitness",
+        "price": 75.34,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 262,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 48.81,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 227,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 424.3,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 98,
+        "img": ""
+    },
+    {
+        "productName": "Yoga Mat",
+        "category": "Fitness",
+        "price": 15.24,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 160,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 464.6,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 181,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Fitness",
+        "price": 388.3,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 89,
+        "img": ""
+    },
+    {
+        "productName": "Exercise Bike",
+        "category": "Fitness",
+        "price": 211.42,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 278,
+        "img": ""
+    },
+    {
+        "productName": "Resistance Bands",
+        "category": "Fitness",
+        "price": 464.46,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 176,
+        "img": ""
+    },
+    {
+        "productName": "Exercise Bike",
+        "category": "Fitness",
+        "price": 68.43,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 289,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 388.47,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 59,
+        "img": ""
+    },
+    {
+        "productName": "Dumbbells",
+        "category": "Fitness",
+        "price": 421.17,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 84,
+        "img": ""
+    },
+    {
+        "productName": "Treadmill",
+        "category": "Fitness",
+        "price": 54.44,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 100,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 49.96,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 287,
+        "img": ""
+    },
+    {
+        "productName": "Yoga Mat",
+        "category": "Fitness",
+        "price": 193.34,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 227,
+        "img": ""
+    },
+    {
+        "productName": "Jump Rope",
+        "category": "Fitness",
+        "price": 376.22,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 300,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 278.88,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 80,
+        "img": ""
+    },
+    {
+        "productName": "Foam Roller",
+        "category": "Fitness",
+        "price": 495.94,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 123,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Fitness",
+        "price": 242.43,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 225,
+        "img": ""
+    },
+    {
+        "productName": "Treadmill",
+        "category": "Fitness",
+        "price": 116.07,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 139,
+        "img": ""
+    },
+    {
+        "productName": "Resistance Bands",
+        "category": "Fitness",
+        "price": 131.1,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 128,
+        "img": ""
+    },
+    {
+        "productName": "Jump Rope",
+        "category": "Fitness",
+        "price": 443.76,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 141,
+        "img": ""
+    },
+    {
+        "productName": "Dumbbells",
+        "category": "Fitness",
+        "price": 331.32,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 52,
+        "img": ""
+    },
+    {
+        "productName": "Exercise Bike",
+        "category": "Fitness",
+        "price": 244.91,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 147,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 181.0,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 86,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 335.98,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 102,
+        "img": ""
+    },
+    {
+        "productName": "Resistance Bands",
+        "category": "Fitness",
+        "price": 423.08,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 246,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 340.52,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Exercise Bike",
+        "category": "Fitness",
+        "price": 476.07,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 193,
+        "img": ""
+    },
+    {
+        "productName": "Jump Rope",
+        "category": "Fitness",
+        "price": 403.7,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 251,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 303.15,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 245,
+        "img": ""
+    },
+    {
+        "productName": "Treadmill",
+        "category": "Fitness",
+        "price": 245.4,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 17,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Fitness",
+        "price": 338.06,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 214,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 245.53,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 65,
+        "img": ""
+    },
+    {
+        "productName": "Treadmill",
+        "category": "Fitness",
+        "price": 74.8,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 112,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Fitness",
+        "price": 482.27,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 163,
+        "img": ""
+    },
+    {
+        "productName": "Jump Rope",
+        "category": "Fitness",
+        "price": 86.53,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 271,
+        "img": ""
+    },
+    {
+        "productName": "Yoga Mat",
+        "category": "Fitness",
+        "price": 260.59,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 94,
+        "img": ""
+    },
+    {
+        "productName": "Dumbbells",
+        "category": "Fitness",
+        "price": 426.29,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 204,
+        "img": ""
+    },
+    {
+        "productName": "Treadmill",
+        "category": "Fitness",
+        "price": 284.36,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 191,
+        "img": ""
+    },
+    {
+        "productName": "Foam Roller",
+        "category": "Fitness",
+        "price": 36.9,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 290,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 401.44,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 188,
+        "img": ""
+    },
+    {
+        "productName": "Jump Rope",
+        "category": "Fitness",
+        "price": 277.1,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 196,
+        "img": ""
+    },
+    {
+        "productName": "Yoga Mat",
+        "category": "Fitness",
+        "price": 159.66,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 256,
+        "img": ""
+    },
+    {
+        "productName": "Resistance Bands",
+        "category": "Fitness",
+        "price": 242.37,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 190,
+        "img": ""
+    },
+    {
+        "productName": "Kettlebells",
+        "category": "Fitness",
+        "price": 269.75,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 50,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Fitness",
+        "price": 116.4,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 235,
+        "img": ""
+    },
+    {
+        "productName": "Pull-Up Bar",
+        "category": "Fitness",
+        "price": 273.51,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 204,
+        "img": ""
+    },
+    {
+        "productName": "Dumbbells",
+        "category": "Fitness",
+        "price": 358.26,
+        "description": "Lightweight running shoes with cushioned soles for optimal comfort.",
+        "quantityAvailable": 179,
+        "img": ""
+    },
+    {
+        "productName": "Exercise Bike",
+        "category": "Fitness",
+        "price": 473.56,
+        "description": "Moisture-wicking t-shirt for running with breathable mesh fabric.",
+        "quantityAvailable": 99,
+        "img": ""
+    },
+    {
+        "productName": "Resistance Bands",
+        "category": "Fitness",
+        "price": 473.35,
+        "description": "Foam yoga block for stability and support in various poses.",
+        "quantityAvailable": 16,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 101.08,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 231,
+        "img": ""
+    },
+    {
+        "productName": "Hoodie",
+        "category": "Clothing",
+        "price": 144.03,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 208,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 69.65,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 248,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 374.1,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 166,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 100.88,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 108,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 284.68,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 59,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 445.47,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 90,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 428.57,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 20,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 459.84,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 251,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 170.35,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 135,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 249.12,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 76,
+        "img": ""
+    },
+    {
+        "productName": "Jeans",
+        "category": "Clothing",
+        "price": 77.31,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 93,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 401.39,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 49,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 328.3,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 79,
+        "img": ""
+    },
+    {
+        "productName": "Running Shorts",
+        "category": "Clothing",
+        "price": 307.41,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 104,
+        "img": ""
+    },
+    {
+        "productName": "Dress",
+        "category": "Clothing",
+        "price": 69.1,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 131,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 333.5,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 214,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 45.19,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 162,
+        "img": ""
+    },
+    {
+        "productName": "Dress",
+        "category": "Clothing",
+        "price": 369.33,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 37,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 115.24,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 174,
+        "img": ""
+    },
+    {
+        "productName": "Dress",
+        "category": "Clothing",
+        "price": 380.62,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 42,
+        "img": ""
+    },
+    {
+        "productName": "Jeans",
+        "category": "Clothing",
+        "price": 124.67,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 88,
+        "img": ""
+    },
+    {
+        "productName": "Jeans",
+        "category": "Clothing",
+        "price": 80.91,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 75,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 297.52,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 235,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 213.52,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 205,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 472.8,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 238,
+        "img": ""
+    },
+    {
+        "productName": "T-shirt",
+        "category": "Clothing",
+        "price": 428.52,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 109,
+        "img": ""
+    },
+    {
+        "productName": "Hoodie",
+        "category": "Clothing",
+        "price": 374.13,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 296,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 106.71,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 104,
+        "img": ""
+    },
+    {
+        "productName": "Dress",
+        "category": "Clothing",
+        "price": 169.48,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 53,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 180.6,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 272,
+        "img": ""
+    },
+    {
+        "productName": "Running Shorts",
+        "category": "Clothing",
+        "price": 462.97,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 214,
+        "img": ""
+    },
+    {
+        "productName": "T-shirt",
+        "category": "Clothing",
+        "price": 272.0,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 55,
+        "img": ""
+    },
+    {
+        "productName": "T-shirt",
+        "category": "Clothing",
+        "price": 491.42,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 233,
+        "img": ""
+    },
+    {
+        "productName": "Jeans",
+        "category": "Clothing",
+        "price": 318.71,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 216,
+        "img": ""
+    },
+    {
+        "productName": "Running Shorts",
+        "category": "Clothing",
+        "price": 193.04,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 182,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 273.98,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 148,
+        "img": ""
+    },
+    {
+        "productName": "Jeans",
+        "category": "Clothing",
+        "price": 140.67,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 21,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 280.01,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 247,
+        "img": ""
+    },
+    {
+        "productName": "T-shirt",
+        "category": "Clothing",
+        "price": 206.82,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 126,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 359.18,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 183,
+        "img": ""
+    },
+    {
+        "productName": "Blouse",
+        "category": "Clothing",
+        "price": 108.66,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 93,
+        "img": ""
+    },
+    {
+        "productName": "Skirt",
+        "category": "Clothing",
+        "price": 59.53,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 86,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 228.12,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 209,
+        "img": ""
+    },
+    {
+        "productName": "T-shirt",
+        "category": "Clothing",
+        "price": 473.24,
+        "description": "Casual t-shirt with a modern fit and soft cotton fabric.",
+        "quantityAvailable": 187,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 209.98,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 92,
+        "img": ""
+    },
+    {
+        "productName": "Running Shorts",
+        "category": "Clothing",
+        "price": 168.62,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 74,
+        "img": ""
+    },
+    {
+        "productName": "Sweater",
+        "category": "Clothing",
+        "price": 34.29,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 286,
+        "img": ""
+    },
+    {
+        "productName": "Hoodie",
+        "category": "Clothing",
+        "price": 472.07,
+        "description": "Water-resistant winter coat with a removable hood and thermal insulation.",
+        "quantityAvailable": 124,
+        "img": ""
+    },
+    {
+        "productName": "Winter Jacket",
+        "category": "Clothing",
+        "price": 341.58,
+        "description": "Lightweight running shorts with a mesh lining and adjustable waistband.",
+        "quantityAvailable": 277,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 26.9,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 98,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 441.16,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 98,
+        "img": ""
+    },
+    {
+        "productName": "Sandals",
+        "category": "Footwear",
+        "price": 329.42,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 222,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 180.98,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 152,
+        "img": ""
+    },
+    {
+        "productName": "Flip Flops",
+        "category": "Footwear",
+        "price": 270.98,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 46,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 139.2,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 49,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 441.43,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 164,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 90.1,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 264,
+        "img": ""
+    },
+    {
+        "productName": "Hiking Boots",
+        "category": "Footwear",
+        "price": 25.73,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 134,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 254.72,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 12,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 125.58,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 96,
+        "img": ""
+    },
+    {
+        "productName": "Loafers",
+        "category": "Footwear",
+        "price": 54.58,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 209,
+        "img": ""
+    },
+    {
+        "productName": "Leather Boots",
+        "category": "Footwear",
+        "price": 459.03,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 23,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 424.2,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 59,
+        "img": ""
+    },
+    {
+        "productName": "Flip Flops",
+        "category": "Footwear",
+        "price": 478.24,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 231,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 372.69,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 17,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 215.74,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 75,
+        "img": ""
+    },
+    {
+        "productName": "Sandals",
+        "category": "Footwear",
+        "price": 107.41,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 130,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 218.7,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 239,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 116.66,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 27,
+        "img": ""
+    },
+    {
+        "productName": "Hiking Boots",
+        "category": "Footwear",
+        "price": 72.3,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 94,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 464.8,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 79,
+        "img": ""
+    },
+    {
+        "productName": "High Heels",
+        "category": "Footwear",
+        "price": 283.88,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 57,
+        "img": ""
+    },
+    {
+        "productName": "Loafers",
+        "category": "Footwear",
+        "price": 111.86,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 13,
+        "img": ""
+    },
+    {
+        "productName": "Hiking Boots",
+        "category": "Footwear",
+        "price": 451.08,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 186,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 423.35,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 150,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 444.92,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 61,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 398.11,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 161,
+        "img": ""
+    },
+    {
+        "productName": "Sneakers",
+        "category": "Footwear",
+        "price": 497.8,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 285,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 134.6,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 135,
+        "img": ""
+    },
+    {
+        "productName": "High Heels",
+        "category": "Footwear",
+        "price": 404.62,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 180,
+        "img": ""
+    },
+    {
+        "productName": "Leather Boots",
+        "category": "Footwear",
+        "price": 420.19,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 158,
+        "img": ""
+    },
+    {
+        "productName": "Loafers",
+        "category": "Footwear",
+        "price": 291.59,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 292,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 291.32,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 56,
+        "img": ""
+    },
+    {
+        "productName": "Loafers",
+        "category": "Footwear",
+        "price": 375.6,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 110,
+        "img": ""
+    },
+    {
+        "productName": "Sandals",
+        "category": "Footwear",
+        "price": 458.01,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 115,
+        "img": ""
+    },
+    {
+        "productName": "Sneakers",
+        "category": "Footwear",
+        "price": 341.86,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 10,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 59.54,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 204,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 107.92,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 147,
+        "img": ""
+    },
+    {
+        "productName": "Sandals",
+        "category": "Footwear",
+        "price": 40.89,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 120,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 394.37,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 131,
+        "img": ""
+    },
+    {
+        "productName": "Sandals",
+        "category": "Footwear",
+        "price": 70.1,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 142,
+        "img": ""
+    },
+    {
+        "productName": "Flip Flops",
+        "category": "Footwear",
+        "price": 226.72,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 239,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 435.94,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 157,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 81.14,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 44,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 25.97,
+        "description": "Casual lace-up sneakers with breathable fabric and cushioned insoles.",
+        "quantityAvailable": 289,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 85.39,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 64,
+        "img": ""
+    },
+    {
+        "productName": "Running Shoes",
+        "category": "Footwear",
+        "price": 352.06,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 12,
+        "img": ""
+    },
+    {
+        "productName": "Slippers",
+        "category": "Footwear",
+        "price": 107.14,
+        "description": "Waterproof hiking boots with reinforced toe cap and padded ankle support.",
+        "quantityAvailable": 250,
+        "img": ""
+    },
+    {
+        "productName": "Formal Shoes",
+        "category": "Footwear",
+        "price": 154.12,
+        "description": "Genuine leather boots with a non-slip sole and cushioned footbed.",
+        "quantityAvailable": 55,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 282.65,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 188,
+        "img": ""
+    },
+    {
+        "productName": "Dining Table",
+        "category": "Furniture",
+        "price": 477.65,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 61,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 372.54,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 431.57,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 282,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Table",
+        "category": "Furniture",
+        "price": 143.84,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 116,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 399.79,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 63,
+        "img": ""
+    },
+    {
+        "productName": "TV Stand",
+        "category": "Furniture",
+        "price": 455.4,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 213,
+        "img": ""
+    },
+    {
+        "productName": "Bed Frame",
+        "category": "Furniture",
+        "price": 316.14,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 119,
+        "img": ""
+    },
+    {
+        "productName": "Recliner",
+        "category": "Furniture",
+        "price": 10.27,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 255,
+        "img": ""
+    },
+    {
+        "productName": "Dining Table",
+        "category": "Furniture",
+        "price": 410.65,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 130,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 121.74,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 87,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Table",
+        "category": "Furniture",
+        "price": 399.89,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 263,
+        "img": ""
+    },
+    {
+        "productName": "Bed Frame",
+        "category": "Furniture",
+        "price": 223.86,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 146,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 239.36,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 300,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 14.09,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 288,
+        "img": ""
+    },
+    {
+        "productName": "TV Stand",
+        "category": "Furniture",
+        "price": 22.93,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 119,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 125.27,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 118,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 92.78,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 185,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 286.28,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 105,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 104.52,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 179,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 36.02,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 179,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 33.86,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 201,
+        "img": ""
+    },
+    {
+        "productName": "Recliner",
+        "category": "Furniture",
+        "price": 213.13,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 112,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 379.55,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 148,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 183.98,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 169,
+        "img": ""
+    },
+    {
+        "productName": "Bookshelf",
+        "category": "Furniture",
+        "price": 381.98,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 223,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 310.14,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 22,
+        "img": ""
+    },
+    {
+        "productName": "Dining Table",
+        "category": "Furniture",
+        "price": 423.87,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 216,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Table",
+        "category": "Furniture",
+        "price": 13.89,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 201,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 101.22,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 233,
+        "img": ""
+    },
+    {
+        "productName": "Bookshelf",
+        "category": "Furniture",
+        "price": 60.42,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 140,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 447.85,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 68,
+        "img": ""
+    },
+    {
+        "productName": "Office Desk",
+        "category": "Furniture",
+        "price": 130.01,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 48,
+        "img": ""
+    },
+    {
+        "productName": "Office Desk",
+        "category": "Furniture",
+        "price": 319.27,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 237,
+        "img": ""
+    },
+    {
+        "productName": "Recliner",
+        "category": "Furniture",
+        "price": 220.62,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 407.43,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 237,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 492.9,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 69,
+        "img": ""
+    },
+    {
+        "productName": "Bed Frame",
+        "category": "Furniture",
+        "price": 165.98,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 284,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 256.34,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 173,
+        "img": ""
+    },
+    {
+        "productName": "Gaming Chair",
+        "category": "Furniture",
+        "price": 91.14,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 126,
+        "img": ""
+    },
+    {
+        "productName": "TV Stand",
+        "category": "Furniture",
+        "price": 358.7,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 80,
+        "img": ""
+    },
+    {
+        "productName": "Bed Frame",
+        "category": "Furniture",
+        "price": 278.12,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 212,
+        "img": ""
+    },
+    {
+        "productName": "Bed Frame",
+        "category": "Furniture",
+        "price": 72.31,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 75,
+        "img": ""
+    },
+    {
+        "productName": "Office Desk",
+        "category": "Furniture",
+        "price": 42.3,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 19,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Table",
+        "category": "Furniture",
+        "price": 493.76,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 273,
+        "img": ""
+    },
+    {
+        "productName": "Wardrobe",
+        "category": "Furniture",
+        "price": 375.06,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 32,
+        "img": ""
+    },
+    {
+        "productName": "Office Desk",
+        "category": "Furniture",
+        "price": 284.41,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 47,
+        "img": ""
+    },
+    {
+        "productName": "TV Stand",
+        "category": "Furniture",
+        "price": 477.35,
+        "description": "Spacious office desk with a cable management system and storage drawers.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Coffee Table",
+        "category": "Furniture",
+        "price": 369.17,
+        "description": "Modern bed frame with a wooden headboard and platform support.",
+        "quantityAvailable": 219,
+        "img": ""
+    },
+    {
+        "productName": "Sofa",
+        "category": "Furniture",
+        "price": 469.72,
+        "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+        "quantityAvailable": 259,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 94.58,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 254,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 121.83,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 135,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 216.34,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 256,
+        "img": ""
+    },
+    {
+        "productName": "Cutting Board",
+        "category": "Kitchen",
+        "price": 265.74,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 161,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 499.44,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 106,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 454.65,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 84,
+        "img": ""
+    },
+    {
+        "productName": "Mixer",
+        "category": "Kitchen",
+        "price": 49.81,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 262,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 264.87,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 168,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 254.71,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 135,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 176.92,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 221,
+        "img": ""
+    },
+    {
+        "productName": "Mixer",
+        "category": "Kitchen",
+        "price": 171.76,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 283,
+        "img": ""
+    },
+    {
+        "productName": "Cutting Board",
+        "category": "Kitchen",
+        "price": 352.29,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 291,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 425.15,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 254,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 484.45,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 235,
+        "img": ""
+    },
+    {
+        "productName": "Slow Cooker",
+        "category": "Kitchen",
+        "price": 422.96,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 152,
+        "img": ""
+    },
+    {
+        "productName": "Slow Cooker",
+        "category": "Kitchen",
+        "price": 408.8,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 194,
+        "img": ""
+    },
+    {
+        "productName": "Mixer",
+        "category": "Kitchen",
+        "price": 257.34,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 168,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 135.55,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 217,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 116.22,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 267,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 183.14,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 150,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 428.79,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 21,
+        "img": ""
+    },
+    {
+        "productName": "Cutting Board",
+        "category": "Kitchen",
+        "price": 20.31,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 242,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 89.23,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 179,
+        "img": ""
+    },
+    {
+        "productName": "Food Processor",
+        "category": "Kitchen",
+        "price": 95.72,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 244,
+        "img": ""
+    },
+    {
+        "productName": "Slow Cooker",
+        "category": "Kitchen",
+        "price": 354.54,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 180,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 163.99,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 35,
+        "img": ""
+    },
+    {
+        "productName": "Food Processor",
+        "category": "Kitchen",
+        "price": 18.47,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 291,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 328.37,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 246,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 356.5,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 62,
+        "img": ""
+    },
+    {
+        "productName": "Food Processor",
+        "category": "Kitchen",
+        "price": 159.57,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 49,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 381.82,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 234,
+        "img": ""
+    },
+    {
+        "productName": "Cutting Board",
+        "category": "Kitchen",
+        "price": 156.48,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 288,
+        "img": ""
+    },
+    {
+        "productName": "Slow Cooker",
+        "category": "Kitchen",
+        "price": 379.35,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 32,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 135.69,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 38,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 487.76,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 128,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 486.48,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 238,
+        "img": ""
+    },
+    {
+        "productName": "Toaster",
+        "category": "Kitchen",
+        "price": 87.25,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 135,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 209.89,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 151,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 374.0,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 248,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 395.41,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 294,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 474.73,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 115,
+        "img": ""
+    },
+    {
+        "productName": "Cutting Board",
+        "category": "Kitchen",
+        "price": 75.97,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 155,
+        "img": ""
+    },
+    {
+        "productName": "Cookware Set",
+        "category": "Kitchen",
+        "price": 208.04,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 35,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 37.19,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 243,
+        "img": ""
+    },
+    {
+        "productName": "Cookware Set",
+        "category": "Kitchen",
+        "price": 39.97,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 47,
+        "img": ""
+    },
+    {
+        "productName": "Blender",
+        "category": "Kitchen",
+        "price": 306.91,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 31,
+        "img": ""
+    },
+    {
+        "productName": "Slow Cooker",
+        "category": "Kitchen",
+        "price": 252.08,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 255,
+        "img": ""
+    },
+    {
+        "productName": "Chef Knife",
+        "category": "Kitchen",
+        "price": 76.65,
+        "description": "8-inch high-carbon steel chef knife with an ergonomic handle.",
+        "quantityAvailable": 79,
+        "img": ""
+    },
+    {
+        "productName": "Rice Cooker",
+        "category": "Kitchen",
+        "price": 371.84,
+        "description": "4-quart air fryer with adjustable temperature and 30-minute timer.",
+        "quantityAvailable": 62,
+        "img": ""
+    },
+    {
+        "productName": "Air Fryer",
+        "category": "Kitchen",
+        "price": 412.51,
+        "description": "10-piece non-stick cookware set with a stainless steel finish.",
+        "quantityAvailable": 130,
+        "img": ""
+    },
+    {
+        "productName": "Lego Set",
+        "category": "Toys",
+        "price": 386.81,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 249,
+        "img": ""
+    },
+    {
+        "productName": "Lego Set",
+        "category": "Toys",
+        "price": 465.73,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 122,
+        "img": ""
+    },
+    {
+        "productName": "Toy Train",
+        "category": "Toys",
+        "price": 446.18,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 51,
+        "img": ""
+    },
+    {
+        "productName": "Toy Train",
+        "category": "Toys",
+        "price": 331.26,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 131,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 74.79,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 178,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 303.22,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 297,
+        "img": ""
+    },
+    {
+        "productName": "Dollhouse",
+        "category": "Toys",
+        "price": 376.82,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 44,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 19.23,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 201,
+        "img": ""
+    },
+    {
+        "productName": "Building Blocks",
+        "category": "Toys",
+        "price": 422.13,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 157,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 316.01,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 285,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 240.13,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 132,
+        "img": ""
+    },
+    {
+        "productName": "Remote Control Car",
+        "category": "Toys",
+        "price": 407.99,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 208,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 425.15,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 29,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 414.88,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 267,
+        "img": ""
+    },
+    {
+        "productName": "Stuffed Animal",
+        "category": "Toys",
+        "price": 108.58,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 192,
+        "img": ""
+    },
+    {
+        "productName": "Building Blocks",
+        "category": "Toys",
+        "price": 295.96,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 154,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 131.77,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 254,
+        "img": ""
+    },
+    {
+        "productName": "Puzzle",
+        "category": "Toys",
+        "price": 198.47,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 254,
+        "img": ""
+    },
+    {
+        "productName": "Remote Control Car",
+        "category": "Toys",
+        "price": 123.64,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 58,
+        "img": ""
+    },
+    {
+        "productName": "Remote Control Car",
+        "category": "Toys",
+        "price": 297.63,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 249,
+        "img": ""
+    },
+    {
+        "productName": "Dollhouse",
+        "category": "Toys",
+        "price": 144.62,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 112,
+        "img": ""
+    },
+    {
+        "productName": "Dollhouse",
+        "category": "Toys",
+        "price": 224.83,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 170,
+        "img": ""
+    },
+    {
+        "productName": "Lego Set",
+        "category": "Toys",
+        "price": 357.17,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 161,
+        "img": ""
+    },
+    {
+        "productName": "Toy Train",
+        "category": "Toys",
+        "price": 370.82,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 229,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Toys",
+        "price": 486.93,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 45,
+        "img": ""
+    },
+    {
+        "productName": "Remote Control Car",
+        "category": "Toys",
+        "price": 91.83,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 168,
+        "img": ""
+    },
+    {
+        "productName": "Building Blocks",
+        "category": "Toys",
+        "price": 289.99,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 300,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Toys",
+        "price": 392.19,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 209,
+        "img": ""
+    },
+    {
+        "productName": "Toy Train",
+        "category": "Toys",
+        "price": 137.55,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 163,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 405.39,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 185,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 479.95,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 194,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 324.33,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 277,
+        "img": ""
+    },
+    {
+        "productName": "Puzzle",
+        "category": "Toys",
+        "price": 279.04,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 66,
+        "img": ""
+    },
+    {
+        "productName": "Building Blocks",
+        "category": "Toys",
+        "price": 229.22,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 209,
+        "img": ""
+    },
+    {
+        "productName": "Stuffed Animal",
+        "category": "Toys",
+        "price": 402.78,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 97,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 72.02,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 81,
+        "img": ""
+    },
+    {
+        "productName": "Lego Set",
+        "category": "Toys",
+        "price": 435.08,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 74,
+        "img": ""
+    },
+    {
+        "productName": "Dollhouse",
+        "category": "Toys",
+        "price": 45.15,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 16,
+        "img": ""
+    },
+    {
+        "productName": "Stuffed Animal",
+        "category": "Toys",
+        "price": 349.54,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 250,
+        "img": ""
+    },
+    {
+        "productName": "Remote Control Car",
+        "category": "Toys",
+        "price": 261.81,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 293,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 185.6,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 44,
+        "img": ""
+    },
+    {
+        "productName": "Drone",
+        "category": "Toys",
+        "price": 186.23,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 72,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 304.6,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 63,
+        "img": ""
+    },
+    {
+        "productName": "Toy Train",
+        "category": "Toys",
+        "price": 295.3,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 113,
+        "img": ""
+    },
+    {
+        "productName": "Building Blocks",
+        "category": "Toys",
+        "price": 424.41,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 124,
+        "img": ""
+    },
+    {
+        "productName": "Action Figure",
+        "category": "Toys",
+        "price": 69.87,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 293,
+        "img": ""
+    },
+    {
+        "productName": "Dollhouse",
+        "category": "Toys",
+        "price": 372.05,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 106,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 71.73,
+        "description": "1000-piece jigsaw puzzle with vibrant artwork and precision-cut pieces.",
+        "quantityAvailable": 29,
+        "img": ""
+    },
+    {
+        "productName": "Lego Set",
+        "category": "Toys",
+        "price": 197.01,
+        "description": "Fast remote control car with a rechargeable battery and 360-degree flips.",
+        "quantityAvailable": 60,
+        "img": ""
+    },
+    {
+        "productName": "Board Game",
+        "category": "Toys",
+        "price": 493.62,
+        "description": "Highly detailed action figure with movable joints and accessories.",
+        "quantityAvailable": 270,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 102.77,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 227,
+        "img": ""
+    },
+    {
+        "productName": "Heart Rate Monitor",
+        "category": "Wearables",
+        "price": 102.03,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 95,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 170.16,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 74,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 173.7,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 227,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 210.88,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 46,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 266.39,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 192,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 48.14,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 50,
+        "img": ""
+    },
+    {
+        "productName": "Fitness Tracker",
+        "category": "Wearables",
+        "price": 400.6,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 23,
+        "img": ""
+    },
+    {
+        "productName": "Fitness Tracker",
+        "category": "Wearables",
+        "price": 106.27,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 264,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 105.32,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 222,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 37.11,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 134,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 11.34,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 163,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 336.14,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 125,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 57.26,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 163,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 113.11,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 280,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 423.32,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 46,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 318.7,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 229,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 13.29,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 26,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 471.42,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 98,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 101.75,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 205,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 69.54,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 14,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 276.33,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 207,
+        "img": ""
+    },
+    {
+        "productName": "Heart Rate Monitor",
+        "category": "Wearables",
+        "price": 154.77,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 264,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 115.24,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 233,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 168.02,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 152,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 195.26,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 190,
+        "img": ""
+    },
+    {
+        "productName": "GPS Watch",
+        "category": "Wearables",
+        "price": 37.11,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 194,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 13.33,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 212,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 461.07,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 242,
+        "img": ""
+    },
+    {
+        "productName": "Wireless Earbuds",
+        "category": "Wearables",
+        "price": 126.63,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 133,
+        "img": ""
+    },
+    {
+        "productName": "Heart Rate Monitor",
+        "category": "Wearables",
+        "price": 495.21,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 221,
+        "img": ""
+    },
+    {
+        "productName": "Heart Rate Monitor",
+        "category": "Wearables",
+        "price": 385.67,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 163,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 348.85,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 24,
+        "img": ""
+    },
+    {
+        "productName": "Wireless Earbuds",
+        "category": "Wearables",
+        "price": 494.34,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 40,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 314.87,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 47,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 215.72,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 67,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 461.77,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 277,
+        "img": ""
+    },
+    {
+        "productName": "Smart Glasses",
+        "category": "Wearables",
+        "price": 279.6,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 298,
+        "img": ""
+    },
+    {
+        "productName": "GPS Watch",
+        "category": "Wearables",
+        "price": 255.61,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 183,
+        "img": ""
+    },
+    {
+        "productName": "Smart Ring",
+        "category": "Wearables",
+        "price": 447.87,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 274,
+        "img": ""
+    },
+    {
+        "productName": "Smart Ring",
+        "category": "Wearables",
+        "price": 52.38,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 245,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 332.56,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 198,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 380.1,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 171,
+        "img": ""
+    },
+    {
+        "productName": "Heart Rate Monitor",
+        "category": "Wearables",
+        "price": 120.6,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 152,
+        "img": ""
+    },
+    {
+        "productName": "Smart Belt",
+        "category": "Wearables",
+        "price": 21.5,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 71,
+        "img": ""
+    },
+    {
+        "productName": "VR Headset",
+        "category": "Wearables",
+        "price": 105.16,
+        "description": "Fitness tracker with step counting, calorie tracking, and water resistance.",
+        "quantityAvailable": 260,
+        "img": ""
+    },
+    {
+        "productName": "Fitness Tracker",
+        "category": "Wearables",
+        "price": 102.21,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 16,
+        "img": ""
+    },
+    {
+        "productName": "Smartwatch",
+        "category": "Wearables",
+        "price": 407.87,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 132,
+        "img": ""
+    },
+    {
+        "productName": "Bluetooth Headphones",
+        "category": "Wearables",
+        "price": 149.37,
+        "description": "True wireless earbuds with noise cancellation and wireless charging.",
+        "quantityAvailable": 110,
+        "img": ""
+    },
+    {
+        "productName": "Fitness Tracker",
+        "category": "Wearables",
+        "price": 108.85,
+        "description": "Smartwatch with heart rate monitor, GPS, and sleep tracking.",
+        "quantityAvailable": 120,
+        "img": ""
+    }
+]

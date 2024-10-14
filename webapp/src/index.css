@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+body , nav, footer{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif ;
+}
+nav h1, header button, header h1{
+    font-family: 'Oswald', sans-serif ;
+}
+header h4{
+    font-family: 'Montserrat', sans-serif ;
+}
+nav .onglets a{
+    text-decoration: none;
+}
+
+header{
+    background: url(./img/onlineshop-erstellen.jpg);
+}
+
+/* Pour les ecrans mobiles  */
+@media screen and (max-width:680px) {
+    nav .onglets{
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    .main .card{
+        margin: 10px;
+
+    }
+    .main .content .card .right img{
+        height: 200px;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .main .content .card{
+        display: block;
+    }
+    footer{
+        padding: 30px;
+    }
+}
