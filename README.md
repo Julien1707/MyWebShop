@@ -22,6 +22,7 @@ Clonez ce projet depuis GitHub sur votre machine locale :
 ### Dans le dossier projet,
 - Créez un environnement virtuel Python : python -m venv venv
 - Installer flask : pip install flask
+- Installer flask-cors : pip install -U flask-cors
 - Exécutez l'API Flask : flask run
 
 ### Dans le dossier webapp,
