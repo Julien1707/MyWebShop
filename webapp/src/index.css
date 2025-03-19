@@ -2,12 +2,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 html{
     scroll-behavior: smooth;
-}
-body , nav, footer{
+} nav, footer{
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif ;
 }
+/* body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif ;
+    display: flex;
+}
+content{
+    display: flex;
+} */
 nav h1, header button, header h1{
     font-family: 'Oswald', sans-serif ;
 }
